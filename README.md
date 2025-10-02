@@ -7,6 +7,12 @@ This is the official implementation of the pixel-wise path selection method MOT-
 Fig.1 Examples of visual results of the MOT-Net and state-of-the-art path selection method on GID-15.
 </p>  
 
+<div id="img\-container" align="center"> <img src="figures/Fig6.png" width="1000px"> <div id="img\-container" align="center">
+  
+<p align="center">  
+Fig.2 Examples of visual results of the MOT-Net and state-of-the-art path selection method on GID-5.
+</p>  
+
 <p align="left"> 
 The whole dataset and code will be available soon here in the future. 
 </p> 
